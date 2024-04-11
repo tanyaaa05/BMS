@@ -1,2 +1,1 @@
-A Database project on Bank Management System using MySQL
-@project
+A Database project on Bank Management System using MySQL.
